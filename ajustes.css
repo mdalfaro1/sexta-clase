@@ -1,0 +1,12 @@
+/*Acá pondré mis ajustes */
+body{font-family: 'Source Sans Pro', sans-serif; background: white ; padding-top:50px;}
+figcaption {font-size: 12px; font-style: italic;}
+h2 {font-size: 30px; font-style: italic;}
+article {padding-top: 50px;}
+h4 {font-size: 30px; font-style: italic; padding-top: 50px;}
+h5 {font-size: 15px; font-style: italic; margin-bottom: 30px;}
+h6 {font-size: 20px;}
+h7 {font-size: 15px;}
+table {margin-top: 20px;}
+img-responsive {margin-left: 20px; margin-bottom: 20px; margin-top: 20px; margin-right: 20}
+img-responsive {padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px}
